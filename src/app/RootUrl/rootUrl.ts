@@ -1,0 +1,1 @@
+export const RootUrl:string ="http://localhost:3000";
